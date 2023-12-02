@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohdalmulla
+- 👀 I’m interested in Physics, Mathematics, and Engineering
+- 🌱 I’m currently learning Coding and Engineering
+- 📫 How to reach me:
+- Email: mohamedalmulla111@gmail.com
