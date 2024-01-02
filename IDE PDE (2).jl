@@ -42,5 +42,3 @@ p1 = Plot(xs,ys,u_real,linetype=:contourf,label = "analytic")
 p2 = Plot(xs,ys,u_predict,linetype=:contourf,label = "predict")
 p3 = Plot(xs,ys,error_,linetype=:contourf,label = "error")
 plot(p1,p2,p3)
-
-https://nextjournal.com/ashutosh-b-b/gsoc-3
